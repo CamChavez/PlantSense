@@ -188,18 +188,4 @@ Este proyecto fue desarrollado como trabajo final para la materia **Habilidades 
 3. Implementación con React + Tailwind CSS
 4. Pruebas funcionales en navegador
 
-> Archivo Figma: [PlantSense — Prototipo](https://www.figma.com/design/lxIwDqu227GLjNZLb4Xzzl)
-
 ---
-
-## 👩‍💻 Autora
-
-**Camila Chávez Ramírez**
-📧 marodissey3@gmail.com
-🌿 _"Cuida tus plantas con amor"_
-
----
-
-## 📄 Licencia
-
-MIT — libre para uso académico y personal.
